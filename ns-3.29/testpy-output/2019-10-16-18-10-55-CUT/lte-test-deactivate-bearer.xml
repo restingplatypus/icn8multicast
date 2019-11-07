@@ -1,0 +1,18 @@
+<Test>
+  <Name>lte-test-deactivate-bearer</Name>
+  <Result>FAIL</Result>
+  <Time real="13.750" user="13.540" system="0.010"/>
+  <Test>
+    <Name>distances (m) = [ 0 0 0 ]</Name>
+    <Result>FAIL</Result>
+    <Time real="13.750" user="13.540" system="0.010"/>
+      <FailureDetails>
+        <Condition>(double)dlDataTxed.at (i) / statsDuration (actual) &lt; m_estThrPssDl.at (i) (limit) + m_estThrPssDl.at (i) * tolerance (tol) &amp;&amp; (double)dlDataTxed.at (i) / statsDuration (actual) &gt; m_estThrPssDl.at (i) (limit) - m_estThrPssDl.at (i) * tolerance (tol)</Condition>
+        <Actual>0</Actual>
+        <Limit>132000 +- 13200</Limit>
+        <Message> Unfair Throughput!</Message>
+        <File>../src/lte/test/lte-test-deactivate-bearer.cc</File>
+        <Line>342</Line>
+      </FailureDetails>
+  </Test>
+</Test>

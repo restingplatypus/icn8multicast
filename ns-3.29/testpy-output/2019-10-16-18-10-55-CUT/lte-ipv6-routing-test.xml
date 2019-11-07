@@ -1,0 +1,18 @@
+<Test>
+  <Name>lte-ipv6-routing-test</Name>
+  <Result>FAIL</Result>
+  <Time real="20.920" user="20.700" system="0.020"/>
+  <Test>
+    <Name>Test IPv6 Routing at LTE</Name>
+    <Result>FAIL</Result>
+    <Time real="20.920" user="20.700" system="0.020"/>
+      <FailureDetails>
+        <Condition>m_clientTxPkts.size () (actual) == m_clientRxPkts.size () (limit)</Condition>
+        <Actual>30</Actual>
+        <Limit>10</Limit>
+        <Message>No. of Request and Reply messages mismatch</Message>
+        <File>../src/lte/test/lte-test-ipv6-routing.cc</File>
+        <Line>209</Line>
+      </FailureDetails>
+  </Test>
+</Test>

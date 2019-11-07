@@ -1,0 +1,105 @@
+<Test>
+  <Name>three-gpp-http-client-server-test</Name>
+  <Result>PASS</Result>
+  <Time real="1.380" user="1.320" system="0.030"/>
+  <Test>
+    <Name>Run #1 delay=3ms ber=0 mtu=536 IPv4</Name>
+    <Result>PASS</Result>
+    <Time real="0.120" user="0.120" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Run #2 delay=3ms ber=0 mtu=536 IPv6</Name>
+    <Result>PASS</Result>
+    <Time real="0.240" user="0.220" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Run #3 delay=3ms ber=0 mtu=1460 IPv4</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Run #4 delay=3ms ber=0 mtu=1460 IPv6</Name>
+    <Result>PASS</Result>
+    <Time real="0.050" user="0.050" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Run #5 delay=3ms ber=5e-06 mtu=536 IPv4</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Run #6 delay=3ms ber=5e-06 mtu=536 IPv6</Name>
+    <Result>PASS</Result>
+    <Time real="0.050" user="0.050" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Run #7 delay=3ms ber=5e-06 mtu=1460 IPv4</Name>
+    <Result>PASS</Result>
+    <Time real="0.040" user="0.040" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Run #8 delay=3ms ber=5e-06 mtu=1460 IPv6</Name>
+    <Result>PASS</Result>
+    <Time real="0.120" user="0.110" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Run #9 delay=30ms ber=0 mtu=536 IPv4</Name>
+    <Result>PASS</Result>
+    <Time real="0.040" user="0.050" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Run #10 delay=30ms ber=0 mtu=536 IPv6</Name>
+    <Result>PASS</Result>
+    <Time real="0.060" user="0.050" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Run #11 delay=30ms ber=0 mtu=1460 IPv4</Name>
+    <Result>PASS</Result>
+    <Time real="0.000" user="0.010" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Run #12 delay=30ms ber=0 mtu=1460 IPv6</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.020" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Run #13 delay=30ms ber=5e-06 mtu=536 IPv4</Name>
+    <Result>PASS</Result>
+    <Time real="0.120" user="0.120" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Run #14 delay=30ms ber=5e-06 mtu=536 IPv6</Name>
+    <Result>PASS</Result>
+    <Time real="0.110" user="0.100" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Run #15 delay=30ms ber=5e-06 mtu=1460 IPv4</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.030" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Run #16 delay=30ms ber=5e-06 mtu=1460 IPv6</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.030" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Run #17 delay=300ms ber=0 mtu=536 IPv4</Name>
+    <Result>PASS</Result>
+    <Time real="0.030" user="0.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Run #18 delay=300ms ber=0 mtu=536 IPv6</Name>
+    <Result>PASS</Result>
+    <Time real="0.050" user="0.060" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Run #19 delay=300ms ber=0 mtu=1460 IPv4</Name>
+    <Result>PASS</Result>
+    <Time real="0.210" user="0.190" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Run #20 delay=300ms ber=0 mtu=1460 IPv6</Name>
+    <Result>PASS</Result>
+    <Time real="0.010" user="0.010" system="0.000"/>
+  </Test>
+</Test>

@@ -1,0 +1,15 @@
+<Test>
+  <Name>lte-carrier-aggregation-configuration</Name>
+  <Result>PASS</Result>
+  <Time real="12.480" user="11.910" system="0.370"/>
+  <Test>
+    <Name> nodes 1 carriers 2 configurations 1 duration +1000000000.0ns</Name>
+    <Result>PASS</Result>
+    <Time real="3.020" user="2.830" system="0.120"/>
+  </Test>
+  <Test>
+    <Name> nodes 2 carriers 2 configurations 2 duration +2000000000.0ns</Name>
+    <Result>PASS</Result>
+    <Time real="9.460" user="9.080" system="0.250"/>
+  </Test>
+</Test>

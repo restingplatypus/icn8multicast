@@ -1,0 +1,25 @@
+<Test>
+  <Name>lte-x2-handover-measures</Name>
+  <Result>PASS</Result>
+  <Time real="51.290" user="50.930" system="0.100"/>
+  <Test>
+    <Name>nEnbs=2 nUes=1 nDedicatedBearers=1 udp=1 ns3::PfFfMacScheduler ns3::A2A4RsrqHandoverAlgorithm admitHo=1 hoList: ho: 0 -&gt; 1, ideal RRC</Name>
+    <Result>PASS</Result>
+    <Time real="14.640" user="14.520" system="0.040"/>
+  </Test>
+  <Test>
+    <Name>nEnbs=2 nUes=1 nDedicatedBearers=1 udp=1 ns3::PfFfMacScheduler ns3::A2A4RsrqHandoverAlgorithm admitHo=1 hoList: ho: 0 -&gt; 1, real RRC</Name>
+    <Result>PASS</Result>
+    <Time real="14.840" user="14.740" system="0.030"/>
+  </Test>
+  <Test>
+    <Name>nEnbs=2 nUes=1 nDedicatedBearers=0 udp=1 ns3::RrFfMacScheduler ns3::A3RsrpHandoverAlgorithm admitHo=1 hoList: ho: 0 -&gt; 1, ideal RRC</Name>
+    <Result>PASS</Result>
+    <Time real="10.610" user="10.580" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>nEnbs=2 nUes=1 nDedicatedBearers=0 udp=1 ns3::RrFfMacScheduler ns3::A3RsrpHandoverAlgorithm admitHo=1 hoList: ho: 0 -&gt; 1, real RRC</Name>
+    <Result>PASS</Result>
+    <Time real="11.200" user="11.090" system="0.020"/>
+  </Test>
+</Test>

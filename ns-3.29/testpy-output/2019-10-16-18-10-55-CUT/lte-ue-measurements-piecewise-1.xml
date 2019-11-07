@@ -1,0 +1,25 @@
+<Test>
+  <Name>lte-ue-measurements-piecewise-1</Name>
+  <Result>PASS</Result>
+  <Time real="11.090" user="10.840" system="0.030"/>
+  <Test>
+    <Name>Piecewise test case 1 - Event A1 with short time-to-trigger</Name>
+    <Result>PASS</Result>
+    <Time real="2.680" user="2.650" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Piecewise test case 1 - Event A1 with hysteresis</Name>
+    <Result>PASS</Result>
+    <Time real="2.860" user="2.820" system="0.020"/>
+  </Test>
+  <Test>
+    <Name>Piecewise test case 1 - Event A2 with normal threshold</Name>
+    <Result>PASS</Result>
+    <Time real="2.710" user="2.700" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Piecewise test case 1 - Event A2 with super time-to-trigger</Name>
+    <Result>PASS</Result>
+    <Time real="2.840" user="2.670" system="0.000"/>
+  </Test>
+</Test>

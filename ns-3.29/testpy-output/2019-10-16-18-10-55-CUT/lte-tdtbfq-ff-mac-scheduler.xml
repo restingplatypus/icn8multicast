@@ -1,0 +1,23 @@
+<Test>
+  <Name>lte-tdtbfq-ff-mac-scheduler</Name>
+  <Result>FAIL</Result>
+  <Time real="5.940" user="5.820" system="0.030"/>
+  <Test>
+    <Name>1 UEs, distance 100000 m</Name>
+    <Result>PASS</Result>
+    <Time real="1.110" user="1.080" system="0.030"/>
+  </Test>
+  <Test>
+    <Name>distances (m) = [ 0 4800 6000 ]</Name>
+    <Result>FAIL</Result>
+    <Time real="4.830" user="4.740" system="0.000"/>
+      <FailureDetails>
+        <Condition>(double)dlDataRxed.at (i) / statsDuration (actual) &lt; m_estThrTdTbfqDl.at (i) (limit) + m_estThrTdTbfqDl.at (i) * tolerance (tol) &amp;&amp; (double)dlDataRxed.at (i) / statsDuration (actual) &gt; m_estThrTdTbfqDl.at (i) (limit) - m_estThrTdTbfqDl.at (i) * tolerance (tol)</Condition>
+        <Actual>0</Actual>
+        <Limit>232000 +- 23200</Limit>
+        <Message> Unfair Throughput!</Message>
+        <File>../src/lte/test/lte-test-tdtbfq-ff-mac-scheduler.cc</File>
+        <Line>696</Line>
+      </FailureDetails>
+  </Test>
+</Test>

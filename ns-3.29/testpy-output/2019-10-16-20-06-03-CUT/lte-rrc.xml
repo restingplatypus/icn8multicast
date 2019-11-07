@@ -1,0 +1,35 @@
+<Test>
+  <Name>lte-rrc</Name>
+  <Result>PASS</Result>
+  <Time real="1.490" user="0.720" system="0.580"/>
+  <Test>
+    <Name>nUes=2, nBearers=2, tConnBase=20, tConnIncrPerUe=10, delayDiscStart=1, real RRC, admitRrcConnectionRequest = true</Name>
+    <Result>PASS</Result>
+    <Time real="0.270" user="0.110" system="0.130"/>
+  </Test>
+  <Test>
+    <Name>nUes=2, nBearers=1, tConnBase=20, tConnIncrPerUe=0, delayDiscStart=1, real RRC, admitRrcConnectionRequest = false</Name>
+    <Result>PASS</Result>
+    <Time real="0.130" user="0.080" system="0.030"/>
+  </Test>
+  <Test>
+    <Name>nUes=2, nBearers=2, tConnBase=20, tConnIncrPerUe=10, delayDiscStart=1, ideal RRC, admitRrcConnectionRequest = true</Name>
+    <Result>PASS</Result>
+    <Time real="0.280" user="0.120" system="0.120"/>
+  </Test>
+  <Test>
+    <Name>nUes=2, nBearers=1, tConnBase=20, tConnIncrPerUe=0, delayDiscStart=1, ideal RRC, admitRrcConnectionRequest = false</Name>
+    <Result>PASS</Result>
+    <Time real="0.120" user="0.070" system="0.030"/>
+  </Test>
+  <Test>
+    <Name>nUes=1, nBearers=1, tConnBase=0, tConnIncrPerUe=0, delayDiscStart=1, real RRC, admitRrcConnectionRequest = true, failure at RRC Connection Request</Name>
+    <Result>PASS</Result>
+    <Time real="0.340" user="0.170" system="0.140"/>
+  </Test>
+  <Test>
+    <Name>nUes=1, nBearers=1, tConnBase=0, tConnIncrPerUe=0, delayDiscStart=1, real RRC, admitRrcConnectionRequest = true, failure at RRC Connection Setup</Name>
+    <Result>PASS</Result>
+    <Time real="0.350" user="0.170" system="0.130"/>
+  </Test>
+</Test>

@@ -1,0 +1,45 @@
+<Test>
+  <Name>lte-interference-fr</Name>
+  <Result>PASS</Result>
+  <Time real="21.580" user="21.340" system="0.000"/>
+  <Test>
+    <Name>Test: d1=50, d2=20</Name>
+    <Result>PASS</Result>
+    <Time real="0.210" user="0.200" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: d1=50, d2=50</Name>
+    <Result>PASS</Result>
+    <Time real="0.350" user="0.350" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: d1=50, d2=200</Name>
+    <Result>PASS</Result>
+    <Time real="0.360" user="0.350" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: d1=50, d2=500</Name>
+    <Result>PASS</Result>
+    <Time real="0.350" user="0.350" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: d1=50, d2=20</Name>
+    <Result>PASS</Result>
+    <Time real="5.030" user="4.980" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: d1=50, d2=50</Name>
+    <Result>PASS</Result>
+    <Time real="5.160" user="5.080" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: d1=50, d2=200</Name>
+    <Result>PASS</Result>
+    <Time real="5.060" user="5.020" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: d1=50, d2=500</Name>
+    <Result>PASS</Result>
+    <Time real="5.060" user="5.010" system="0.000"/>
+  </Test>
+</Test>

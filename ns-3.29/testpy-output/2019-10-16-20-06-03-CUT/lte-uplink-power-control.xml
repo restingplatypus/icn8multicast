@@ -1,0 +1,20 @@
+<Test>
+  <Name>lte-uplink-power-control</Name>
+  <Result>PASS</Result>
+  <Time real="4.370" user="4.290" system="0.000"/>
+  <Test>
+    <Name>Uplink Open Loop Power Control: OpenLoopTest1</Name>
+    <Result>PASS</Result>
+    <Time real="1.530" user="1.510" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Uplink Closed Loop Power Control: ClosedLoopAbsoluteModeTest1</Name>
+    <Result>PASS</Result>
+    <Time real="1.310" user="1.270" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Uplink Closed Loop Power Control: ClosedLoopAccumulatedModeTest1</Name>
+    <Result>PASS</Result>
+    <Time real="1.530" user="1.510" system="0.000"/>
+  </Test>
+</Test>

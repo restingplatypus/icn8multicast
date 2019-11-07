@@ -1,0 +1,2610 @@
+<Test>
+  <Name>lte-frequency-reuse</Name>
+  <Result>FAIL</Result>
+  <Time real="124.350" user="119.370" system="3.650"/>
+  <Test>
+    <Name>Test: DownlinkHardFrPf1</Name>
+    <Result>PASS</Result>
+    <Time real="0.630" user="0.620" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkHardFrPf2</Name>
+    <Result>PASS</Result>
+    <Time real="1.710" user="1.700" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkHardFrPss1</Name>
+    <Result>PASS</Result>
+    <Time real="0.610" user="0.610" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkHardFrPss2</Name>
+    <Result>PASS</Result>
+    <Time real="1.600" user="1.590" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkHardFrCqa1</Name>
+    <Result>PASS</Result>
+    <Time real="0.300" user="0.300" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkHardFrCqa2</Name>
+    <Result>PASS</Result>
+    <Time real="0.980" user="0.980" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkHardFrFdTbfq1</Name>
+    <Result>PASS</Result>
+    <Time real="0.280" user="0.270" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkHardFrFdTbfq2</Name>
+    <Result>PASS</Result>
+    <Time real="0.940" user="0.950" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkHardFrTdTbfq1</Name>
+    <Result>PASS</Result>
+    <Time real="0.590" user="0.590" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkHardFrTdTbfq2</Name>
+    <Result>PASS</Result>
+    <Time real="1.500" user="1.490" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkStrictFrPf1</Name>
+    <Result>PASS</Result>
+    <Time real="0.610" user="0.600" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkStrictFrPf2</Name>
+    <Result>PASS</Result>
+    <Time real="1.570" user="1.570" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkStrictFrPss1</Name>
+    <Result>PASS</Result>
+    <Time real="0.590" user="0.590" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkStrictFrPss2</Name>
+    <Result>PASS</Result>
+    <Time real="1.380" user="1.370" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkStrictFrCqa1</Name>
+    <Result>PASS</Result>
+    <Time real="0.280" user="0.280" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkStrictFrCqa2</Name>
+    <Result>PASS</Result>
+    <Time real="0.970" user="0.970" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkStrictFrCqaFdTbfq1</Name>
+    <Result>PASS</Result>
+    <Time real="0.270" user="0.270" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkStrictFrCqaFdTbfq2</Name>
+    <Result>PASS</Result>
+    <Time real="0.930" user="0.930" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkStrictFrCqaTdTbfq1</Name>
+    <Result>PASS</Result>
+    <Time real="0.590" user="0.580" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: DownlinkStrictFrCqaTdTbfq2</Name>
+    <Result>PASS</Result>
+    <Time real="1.320" user="1.320" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteStrictFrAreaTestCasePf1</Name>
+    <Result>PASS</Result>
+    <Time real="3.420" user="3.410" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Test: LteStrictFrAreaTestCasePss1</Name>
+    <Result>PASS</Result>
+    <Time real="3.380" user="3.370" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteStrictFrAreaTestCaseCqa1</Name>
+    <Result>PASS</Result>
+    <Time real="3.720" user="3.700" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteStrictFrAreaTestCaseFdTbfq1</Name>
+    <Result>PASS</Result>
+    <Time real="2.710" user="2.710" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteStrictFrAreaTestCaseTdTbfq1</Name>
+    <Result>PASS</Result>
+    <Time real="3.320" user="3.310" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteSoftFrAreaTestCasePf1</Name>
+    <Result>PASS</Result>
+    <Time real="3.410" user="3.410" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteSoftFrAreaTestCasePss1</Name>
+    <Result>PASS</Result>
+    <Time real="3.400" user="3.380" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteSoftFrAreaTestCaseCqa1</Name>
+    <Result>PASS</Result>
+    <Time real="3.830" user="3.830" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteSoftFrAreaTestCaseFdTbfq1</Name>
+    <Result>PASS</Result>
+    <Time real="2.810" user="2.710" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteSoftFrAreaTestCaseTdTbfq1</Name>
+    <Result>PASS</Result>
+    <Time real="3.510" user="3.490" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteSoftFfrAreaTestCasePf1</Name>
+    <Result>PASS</Result>
+    <Time real="5.930" user="5.860" system="0.020"/>
+  </Test>
+  <Test>
+    <Name>Test: LteSoftFfrAreaTestCasePss1</Name>
+    <Result>PASS</Result>
+    <Time real="5.910" user="5.860" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteSoftFfrAreaTestCaseCqa1</Name>
+    <Result>PASS</Result>
+    <Time real="6.450" user="6.400" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteSoftFfrAreaTestCaseFdTbfq1</Name>
+    <Result>PASS</Result>
+    <Time real="4.720" user="4.690" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteSoftFfrAreaTestCaseTdTbfq1</Name>
+    <Result>PASS</Result>
+    <Time real="5.750" user="5.680" system="0.020"/>
+  </Test>
+  <Test>
+    <Name>Test: LteEnhancedFfrAreaTestCasePf1</Name>
+    <Result>PASS</Result>
+    <Time real="6.070" user="6.030" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteEnhancedFfrAreaTestCasePss1</Name>
+    <Result>PASS</Result>
+    <Time real="6.030" user="5.980" system="0.000"/>
+  </Test>
+  <Test>
+    <Name>Test: LteEnhancedFfrAreaTestCaseCqa1</Name>
+    <Result>PASS</Result>
+    <Time real="7.770" user="3.810" system="3.460"/>
+  </Test>
+  <Test>
+    <Name>Test: LteEnhancedFfrAreaTestCaseFdTbfq1</Name>
+    <Result>PASS</Result>
+    <Time real="4.930" user="4.730" system="0.110"/>
+  </Test>
+  <Test>
+    <Name>Test: LteEnhancedFfrAreaTestCaseTdTbfq1</Name>
+    <Result>PASS</Result>
+    <Time real="6.560" user="6.490" system="0.010"/>
+  </Test>
+  <Test>
+    <Name>Test: LteDistributedFfrAreaTestCasePf1</Name>
+    <Result>FAIL</Result>
+    <Time real="13.070" user="12.940" system="0.010"/>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.901</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.902</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.903</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.904</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.905</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.906</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.907</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.908</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.909</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.91</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.911</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.912</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.913</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.914</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.915</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.916</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.917</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.918</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.919</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.92</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.921</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.922</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.923</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.924</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.925</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.926</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.927</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.928</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.929</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.93</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.931</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.932</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.933</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.934</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.935</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.936</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.937</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.938</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.939</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.94</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.941</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.942</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.943</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.944</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.945</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.946</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.947</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.948</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.949</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.95</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.951</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.952</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.953</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.954</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.955</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.956</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.957</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.958</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.959</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.96</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.961</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.962</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.963</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.964</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.965</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.966</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.967</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.968</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.969</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.97</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.971</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.972</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.973</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.974</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.975</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.976</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.977</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.978</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.979</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.98</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.981</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.982</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.983</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.984</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.985</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.986</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.987</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.988</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.989</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.99</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.991</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.992</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.993</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.994</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.995</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.996</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.997</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.998</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level0.999</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.401</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.402</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.403</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.404</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.405</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.406</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.407</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.408</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.409</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.41</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.411</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.412</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.413</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.414</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.415</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.416</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.417</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.418</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.419</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.42</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.421</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.422</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.423</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.424</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.425</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.426</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.427</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.428</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.429</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.43</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.431</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.432</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.433</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.434</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.435</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.436</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.437</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.438</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.439</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.44</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.441</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.442</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.443</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.444</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.445</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.446</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.447</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.448</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.449</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.45</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.451</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.452</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.453</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.454</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.455</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.456</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.457</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.458</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.459</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.46</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.461</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.462</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.463</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.464</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.465</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.466</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.467</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.468</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.469</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.47</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.471</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.472</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.473</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.474</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.475</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.476</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.477</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.478</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.479</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.48</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.481</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.482</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.483</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.484</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.485</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.486</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.487</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.488</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.489</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.49</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.491</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.492</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.493</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.494</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.495</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.496</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.497</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.498</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.499</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.5</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.901</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.902</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.903</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.904</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.905</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.906</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.907</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.908</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.909</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.91</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.911</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.912</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.913</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.914</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.915</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.916</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.917</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.918</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.919</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.92</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.921</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.922</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.923</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.924</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.925</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.926</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.927</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.928</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.929</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.93</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.931</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.932</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.933</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.934</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.935</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.936</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.937</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.938</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.939</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.94</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.941</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.942</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.943</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.944</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.945</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.946</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.947</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.948</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.949</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.95</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.951</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.952</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.953</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.954</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.955</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.956</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.957</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.958</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.959</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.96</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.961</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.962</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.963</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.964</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.965</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.966</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.967</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.968</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.969</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.97</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.971</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.972</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.973</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.974</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.975</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.976</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.977</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.978</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.979</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.98</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.981</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.982</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.983</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.984</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.985</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.986</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.987</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.988</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.989</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.99</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.991</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.992</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.993</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.994</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.995</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.996</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.997</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.998</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level1.999</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>power (actual) &lt; m_expectedUlPower (limit) + 0.01 (tol) &amp;&amp; power (actual) &gt; m_expectedUlPower (limit) - 0.01 (tol)</Condition>
+        <Actual>0.17057</Actual>
+        <Limit>0.135489 +- 0.01</Limit>
+        <Message>Wrong Data Channel UL Power level2</Message>
+        <File>../src/lte/test/lte-test-frequency-reuse.cc</File>
+        <Line>538</Line>
+      </FailureDetails>
+  </Test>
+</Test>

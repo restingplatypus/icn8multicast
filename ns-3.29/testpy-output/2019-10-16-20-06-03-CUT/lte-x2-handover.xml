@@ -1,0 +1,31 @@
+<Test>
+  <Name>lte-x2-handover</Name>
+  <Result>FAIL</Result>
+  <Time real="2.940" user="1.290" system="1.420"/>
+  <Test>
+    <Name> nUes=2 nDedicatedBearers=2 udp=1 ns3::RrFfMacScheduler admitHo=1 hoList: 1 fwd &amp; bwd &amp; fwd, ideal RRC</Name>
+    <Result>PASS</Result>
+    <Time real="1.560" user="0.580" system="0.830"/>
+  </Test>
+  <Test>
+    <Name> nUes=3 nDedicatedBearers=2 udp=1 ns3::RrFfMacScheduler admitHo=1 hoList: 1+2 fwd &amp; bwd, ideal RRC</Name>
+    <Result>FAIL</Result>
+    <Time real="1.380" user="0.710" system="0.590"/>
+      <FailureDetails>
+        <Condition>dlRx (actual) &gt; 0.500 * expectedBytes (limit)</Condition>
+        <Actual>0</Actual>
+        <Limit>500</Limit>
+        <Message>too few RX bytes in DL, ue=1, b=1</Message>
+        <File>../src/lte/test/test-lte-x2-handover.cc</File>
+        <Line>580</Line>
+      </FailureDetails>
+      <FailureDetails>
+        <Condition>dlRx (actual) &gt; 0.500 * expectedBytes (limit)</Condition>
+        <Actual>0</Actual>
+        <Limit>500</Limit>
+        <Message>too few RX bytes in DL, ue=1, b=1</Message>
+        <File>../src/lte/test/test-lte-x2-handover.cc</File>
+        <Line>580</Line>
+      </FailureDetails>
+  </Test>
+</Test>
