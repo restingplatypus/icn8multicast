@@ -3,6 +3,10 @@
 def build(bld):
     module = bld.create_ns3_module('applications', ['internet', 'config-store','stats'])
     module.source = [
+        'model/tcp-server-application.cc',
+        'model/tcp-client-application.cc',
+    	'model/icn-echo-bulk-server.cc',
+    	'model/icn-echo-bulk-client.cc',
     	'model/icn-echo-server.cc',
     	'model/icn-echo-client.cc',
     	'model/icn-packet-header.cc',
@@ -21,6 +25,7 @@ def build(bld):
         'model/three-gpp-http-server.cc',
         'model/three-gpp-http-header.cc',
         'model/three-gpp-http-variables.cc', 
+        'helper/icn-echo-bulk-helper.cc',
         'helper/icn-request-response-helper.cc',
         'helper/bulk-send-helper.cc',
         'helper/on-off-helper.cc',
@@ -39,6 +44,10 @@ def build(bld):
     headers = bld(features='ns3header')
     headers.module = 'applications'
     headers.source = [
+        'model/tcp-server-application.h',
+        'model/tcp-client-application.h',
+    	'model/icn-echo-bulk-server.h',
+    	'model/icn-echo-bulk-client.h',
     	'model/icn-echo-server.h',
     	'model/icn-echo-client.h',
     	'model/icn-packet-header.h',
@@ -57,6 +66,7 @@ def build(bld):
         'model/three-gpp-http-server.h',
         'model/three-gpp-http-header.h',
         'model/three-gpp-http-variables.h',
+        'helper/icn-echo-bulk-helper.h',
         'helper/icn-request-response-helper.h',
         'helper/bulk-send-helper.h',
         'helper/on-off-helper.h',

@@ -54,6 +54,8 @@ private:
   void HandleRead (Ptr<Socket> socket);
   uint16_t m_port; //!< Port on which we listen for incoming packets.
   uint32_t m_size;
+  uint32_t m_maxBytes;
+  uint32_t m_totBytes;
 
   Ptr<Socket> m_socket; //!< IPv4 Socket
   Ptr<Socket> m_socket6; //!< IPv6 Socket
@@ -71,4 +73,3 @@ private:
 } // namespace ns3
 
 #endif /* UDP_ECHO_SERVER_H */
-

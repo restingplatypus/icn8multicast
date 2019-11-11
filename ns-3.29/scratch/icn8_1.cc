@@ -160,6 +160,7 @@ int main (int argc, char *argv[])
 	//LogComponentEnable("IcnEchoServerApplication", LOG_LEVEL_INFO);
 	//LogComponentEnable("EpcSgwPgwApplication", LOG_LEVEL_INFO);
 	//LogComponentEnable("LtePdcp", LOG_LEVEL_INFO);
+	LogComponentEnable("IcnEchoServerApplication", LOG_LEVEL_INFO);
 
 	Ptr<LteHelper> lteHelper = CreateObject<LteHelper>();
 	Ptr<PointToPointEpcHelper> epcHelper = CreateObject<PointToPointEpcHelper>();
@@ -192,6 +193,7 @@ int main (int argc, char *argv[])
 	//Config::SetDefault ("ns3::LteEnbPhy::TxPower", DoubleValue (enbTxPowerDbm));
 	Config::SetDefault ("ns3::LteUeMac::Alpha", DoubleValue (alpha));
 	Config::SetDefault ("ns3::IcnEchoServer::PacketSize", UintegerValue(contentSize));
+	Config::SetDefault("ns3::LteRlcUm::MaxTxBufferSize", UintegerValue(1000*1024));
 
 
 

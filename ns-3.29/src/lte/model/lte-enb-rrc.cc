@@ -2207,10 +2207,10 @@ LteEnbRrc::SendData (Ptr<Packet> packet)
   Ptr<UeManager> ueManager = GetUeManager (tag.GetRnti ());
 
   //Time delay = Simulator::Now() + Seconds(3.0);
-  Time delay = Simulator::Now() + Seconds(m_txWaitDelay);
-  Simulator::Schedule(delay, &UeManager::SendData, ueManager, tag.GetBid(), packet);
+  //Time delay = Simulator::Now() + Seconds(m_txWaitDelay);
+  //Simulator::Schedule(delay, &UeManager::SendData, ueManager, tag.GetBid(), packet);
 
-  //ueManager->SendData (tag.GetBid (), packet);
+  ueManager->SendData (tag.GetBid (), packet);
 
   return true;
 }

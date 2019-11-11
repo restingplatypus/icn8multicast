@@ -59,11 +59,16 @@ IcnEchoServer::GetTypeId (void)
 					UintegerValue (2048),
 					MakeUintegerAccessor (&IcnEchoServer::m_size),
 					MakeUintegerChecker<uint32_t> ())
+	.AddAttribute ("MaxBytes", "Size of echo data in outbound packets",
+					UintegerValue (0),
+					MakeUintegerAccessor (&IcnEchoServer::m_maxBytes),
+					MakeUintegerChecker<uint32_t> ())
   ;
   return tid;
 }
 
 IcnEchoServer::IcnEchoServer ()
+	:m_totBytes(0)
 {
   NS_LOG_FUNCTION (this);
 }
